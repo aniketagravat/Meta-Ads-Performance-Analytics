@@ -1,4 +1,4 @@
-# Meta-Ads-Performance-Analytics-Dashboard
+# Meta-Ads-Performance-Analytics
 This project tracks actual business performance for Facebook/Instagram ad campaigns — not static CSV demos. The dashboard automates data extraction from the Meta Ads Graph API and converts raw campaign metrics into insights to improve ROI and budget allocation.
 🚀 Key Features
   Live API Integration
